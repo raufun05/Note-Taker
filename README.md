@@ -78,8 +78,10 @@ You are required to submit the following:
 
 * The URL of the deployed application. This should be the link to the url provided by Heroku. Be sure not to submit a link to the Heroku dashboard.
 
+https://serene-shelf-61975.herokuapp.com/
 
 * The URL of the GitHub repository
+
 https://github.com/raufun05/Note-Taker
 
 - - -
